@@ -7,6 +7,6 @@ pyyaml
 scipy
 tb-nightly
 torch>=1.7
-torchvision
+torchvision==0.16.0
 tqdm
 yapf
